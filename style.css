@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Neucha;
+    src: url(./neucha.ttf);
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 10px;
+    font-family: Neucha;
+    color: #5f021f;
+}
+
+p {
+    color: #a4721f;
+}
+
+span {
+    color: rgb(185, 57, 57);
+}
+
+img {
+    object-position: left;
+    object-fit: cover;
+}
